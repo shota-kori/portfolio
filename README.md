@@ -32,6 +32,8 @@ DisableHurtbox normal
 FinishAnimation
 ```
 
+[デモ動画](./OKASHI_WARS_demo.mp4)
+
 ### 限定継続を含んだラムダ計算のインタプリタ
 現在行っている専攻研究の関係で、Haskellで開発しました。
 
