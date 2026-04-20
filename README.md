@@ -32,7 +32,9 @@ DisableHurtbox normal
 FinishAnimation
 ```
 
-[デモ動画](./OKASHI_WARS_demo.mp4)
+[OKASHI WARS デモ動画](./OKASHI_WARS_demo.mp4):
+アップロード可能な程度のダイジェストのデモ動画です。
+ダウンロードで視聴可能です。
 
 ### 限定継続を含んだラムダ計算のインタプリタ
 現在行っている専攻研究の関係で、Haskellで開発しました。
